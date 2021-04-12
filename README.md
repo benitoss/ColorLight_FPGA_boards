@@ -22,7 +22,7 @@ Add the files of   [icestudio_add.zip](https://github.com/benitoss/ColorLight_FP
 1)  In the folder   -> C:\Users\your_user\.icestudio\apio\packages
 Add the files of [toolchain-opefpgaload.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-opefpgaload.zip) file
 2)  In the folder   -> C:\Users\your_user\.icestudio\apio\packages
-Add the files of  [toolchain-ecpdap.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-ecpdap.zip)
+Add the files of  [toolchain-ecpdap.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-ecpdap.zip) file
 3)  In the folder    --> C:\Users\your_user\.icestudio\apio
 Overwrite profile.json file of [profile.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/profile.zip) file
 4)   In the folder   --> C:\Users\your_user\.icestudio\venv\Lib\site-packages\apio\resources
