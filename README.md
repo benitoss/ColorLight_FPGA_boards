@@ -16,7 +16,7 @@ The required files are included in the folder **Icestudio_update_boards**
 
 **Icestudio** 
 1) In the folder -> C:\Program Files\icestudio\resources\boards
-Add the files of  Icestudio_add.zip     (overwrite the menu.json file)
+Add the files of   [icestudio_add.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/icestudio_add.zip) file (overwrite the menu.json file)
 
 **APIO**
 1)  In the folder   -> C:\Users\your_user\.icestudio\apio\packages
