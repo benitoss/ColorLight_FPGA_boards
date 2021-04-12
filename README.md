@@ -16,19 +16,19 @@ The required files are included in the folder **Icestudio_update_boards**
 
 **Icestudio** 
 1) In the folder -> C:\Program Files\icestudio\resources\boards
-Add the files of   [icestudio_add.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/icestudio_add.zip) file (overwrite the menu.json file)
+Add the files of   [icestudio_add.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/icestudio_add.zip) file (overwrite the menu.json file)
 
 **APIO**
 1)  In the folder   -> C:\Users\your_user\.icestudio\apio\packages
-Add the files of [toolchain-opefpgaload.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/toolchain-opefpgaload.zip) file
+Add the files of [toolchain-opefpgaload.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-opefpgaload.zip) file
 2)  In the folder   -> C:\Users\your_user\.icestudio\apio\packages
-Add the files of  [toolchain-ecpdap.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/toolchain-ecpdap.zip)
+Add the files of  [toolchain-ecpdap.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-ecpdap.zip)
 3)  In the folder    --> C:\Users\your_user\.icestudio\apio
-Overwrite profile.json file of [profile.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/profile.zip) file
+Overwrite profile.json file of [profile.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/profile.zip) file
 4)   In the folder   --> C:\Users\your_user\.icestudio\venv\Lib\site-packages\apio\resources
-Overwrite programmers.json y boards.json  files of [resources.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/resources.zip) file
+Overwrite programmers.json y boards.json  files of [resources.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/resources.zip) file
 5)  In the folder  --> C:\Users\your_user\.icestudio\venv\Lib\site-packages\apio
-Overwrite util.py file of [util.zip](https://raw.githubusercontent.com/benitoss/ColorLight_FPGA_boards/Icestudio_update_boards/util.zip) file
+Overwrite util.py file of [util.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/util.zip) file
 
 # JTAG Programmers
 
