@@ -11,7 +11,7 @@ Update IceStudio (Windows version) to support ColorLight 5A-75X, i5 and ICeSugar
 
 ## How to Update IceStudio and Apio to support these boards
 
-1) Download the Windows WIP version of IceStudio **0.5.1w210224** from https://downloads.icestudio.io/  
+Download the Windows WIP version of IceStudio **0.5.1w210224** from https://downloads.icestudio.io/  
 The required files are included in the folder **Icestudio_update_boards**
 
 **Icestudio** 
