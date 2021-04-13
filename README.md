@@ -9,6 +9,8 @@ Update IceStudio (Windows version) to support ColorLight 5A-75X, i5 and ICeSugar
 - Colorlight i5
 - IceSugar Pro 
 
+Below you can see the new boards added and the supported versions. In parenthesis you can see the acepted programmers for each board
+
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/icestudio_boards.png)
 
 ## How to Update IceStudio and Apio to support these boards
