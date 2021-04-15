@@ -46,7 +46,7 @@ The recomended JTAG programmers are:
 
 My JTAG programmer is the FT2232H   from here --> https://www.aliexpress.com/item/32806818411.html
 
-![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_1.png)
+<img src="https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_1.png" alt="FT2322H Board" width="450" height="342">
 
 Because I use the same programmer in other Xilinx Boards I have applied a mod to this programmer (If you only are going to use for Lattice  ECP5 board you don't need to do it)
 The mod is based in change the content of its EPROM , here you have the instructions  -->  https://gist.github.com/rikka0w0/24b58b54473227502fa0334bbe75c3c1
