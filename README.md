@@ -24,15 +24,15 @@ Add the files of   [icestudio_add.zip](https://github.com/benitoss/ColorLight_FP
 
 **APIO**
 1)  In the folder   -> **C:\Users\your_user\.icestudio\apio\packages**  
-Add the files of [toolchain-opefpgaload.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-opefpgaload.zip) file
+Add the files of [toolchain-opefpgaload.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/toolchain-openfpgaloader.zip?raw=true) file
 2)  In the folder   -> **C:\Users\your_user\.icestudio\apio\packages**  
-Add the files of  [toolchain-ecpdap.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/toolchain-ecpdap.zip) file
+Add the files of  [toolchain-ecpdap.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/toolchain-ecpdap.zip?raw=true) file
 3)  In the folder    --> **C:\Users\your_user\.icestudio\apio**  
-Overwrite profile.json file of [profile.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/profile.zip) file
+Overwrite profile.json file of [profile.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/profile.zip?raw=true) file
 4)   In the folder   --> **C:\Users\your_user\.icestudio\venv\Lib\site-packages\apio\resources**  
-Overwrite programmers.json y boards.json  files of [resources.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/resources.zip) file
+Overwrite programmers.json y boards.json  files of [resources.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/resources.zip?raw=true) file
 5)  In the folder  --> **C:\Users\your_user\.icestudio\venv\Lib\site-packages\apio**  
-Overwrite util.py file of [util.zip](https://github.com/benitoss/ColorLight_FPGA_boards/raw/main/Icestudio_update_boards/util.zip) file
+Overwrite util.py file of [util.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/util.zip?raw=true) file
 
 # JTAG Programmers
 
