@@ -16,7 +16,7 @@ Below you can see the new boards added and the supported versions. In parenthesi
 ## How to Update IceStudio and Apio to support these boards
 
 Download the Windows WIP version of IceStudio **icestudio-0.5.1w202106050906** from https://downloads.icestudio.io/  
-The required files are included already in the nightly version of IceStudio, so yopu can go to the APPIO section directly.
+The required files are included already in the nightly version of IceStudio, so you can go to the APPIO section directly.
 
 **APIO**
 1)  In the folder   -> **C:\Users\your_user\\.icestudio\apio\packages**  
