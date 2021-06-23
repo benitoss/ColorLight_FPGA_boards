@@ -12,7 +12,7 @@ The procedure of Mac and Linux IceStudio version is similar, but they require of
 
 Below you can see the new boards added and the supported versions. In parenthesis you can see the acepted programmers for each board. If there is not a JTAG programmer in parenthesis, the default JTAG programmer is FT2232H.
 
-There is another utility for ColorLight i5 and iCESugar-Pro called [ECPDAP](https://github.com/adamgreig/ecpdap) added in the toolchain, but that program is too slow to program the board. It is recommendable to use an external JTAG programmer as FT2232, FT232H or USB-Blaster to program these boards.
+There is another utility for ColorLight i5 and iCESugar-Pro called [ECPDAP](https://github.com/adamgreig/ecpdap) added in the toolchain, but that program is too slow to program the board. Other JTAG programmer as STM32 with the [DirtyJTAG firmware](https://github.com/jeanthom/DirtyJTAG) has the same problem. It is recommendable to use an external JTAG programmer as FT2232, FT232H or USB-Blaster to program these boards.
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/icestudio_boards.png)
 
