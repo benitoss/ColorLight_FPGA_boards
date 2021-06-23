@@ -88,3 +88,7 @@ If you apply the MOD of the EPROM, you will have an USB-UART converter in the Se
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2323h_3.jpg)
 
+Eventually you can follow the fantastic info from chubby75 [Github](https://github.com/q3k/chubby75) to Know the JTAG pins in the Cololight Boards.
+![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag.jpg)
+
+
