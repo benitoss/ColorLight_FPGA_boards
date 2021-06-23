@@ -1,7 +1,7 @@
 # ColorLight_FPGA_boards
 Update IceStudio (Windows version) to support ColorLight 5A-75X, i5 and ICeSugar Pro FPGA boards.
 
-Mac and Linux version require of OpenFPGALoader version of each SO. You can get the OpenFPGALoader compiled binary version from [here](https://github.com/YosysHQ/fpga-toolchain/releases/tag/nightly-20210418)
+The procedure of Mac and Linux IceStudio version is similar, but they require of OpenFPGALoader version for each SO. You can get the OpenFPGALoader compiled binary version from [here](https://github.com/YosysHQ/fpga-toolchain/releases/tag/nightly-20210418)
 
 ## New supported boards in IceStudio and Apio
 
