@@ -18,12 +18,17 @@ There is another utility for ColorLight i5 and iCESugar-Pro called [ECPDAP](http
 
 ## How to Update IceStudio and Apio to support these boards
 
-Download the Windows WIP version of IceStudio **icestudio-0.5.1w202106050906** from https://downloads.icestudio.io/  
+Download the Windows WIP version of IceStudio **0.5.1w202106261206** from https://downloads.icestudio.io/  
 The required files are included already in the nightly version of IceStudio, so you can go to the APPIO section directly.
+
+The last version of ICeStudio will be include the apio-0.6.7 version, so you only need to follow the first step below 
 
 **APIO**
 1)  In the folder   -> **C:\Users\your_user\\.icestudio\apio\packages**  
 Add the files of [toolchain-ecp5.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/toolchain-ecp5.zip?raw=true) file
+
+**Next stpes only are necessary if your apio version is below apio-0.6.7 version**
+
 2)  In the folder    --> **C:\Users\your_user\\.icestudio\apio**  
 Overwrite profile.json file of [profile.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/profile.zip?raw=true) file
 3)   In the folder   --> **C:\Users\your_user\\.icestudio\venv\Lib\site-packages\apio\resources**  
@@ -90,6 +95,9 @@ If you apply the MOD of the EPROM, you will have an USB-UART converter in the Se
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_2.png)
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2323h_3.jpg)
+
+
+**JTAG conections in Colorlight 5A-75X boards**
 
 Eventually you can follow the fantastic info from chubby75 [Github](https://github.com/q3k/chubby75) to Know the JTAG pins in the Cololight Boards.
 
