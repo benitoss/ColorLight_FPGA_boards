@@ -87,14 +87,38 @@ And you will see the original state with the device name without nothing in pare
 In this way you can use the FT2232H JTAG programmer with any board  
 The way to install the driver is equivalent for FT232H or USB-Blaster programmers
 
-**Conections for Ft2232h**
+**Conections for FT2232h**
 
-Here you have the JTAG connections of the FT2232H board to program the board. Note: It is not necessary connect the VCC connector
+Here you have the JTAG connections of the FT2232H board to program the board. Note: It is not necessary connect the VCC connector. Do not forget to connect the GND to the board
+
+ADBUS0 --> TCLK
+ADBUS1 --> TDI
+ADBUS2 --> TDO
+ADBUS3 --> TMS
+
 If you apply the MOD of the EPROM, you will have an USB-UART converter in the Second port "USB Serial Converter B" and you can use as a traditional USB-UART convertor
+
+CDBUS0 --> TX
+CDBUS1 --> RX
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_2.png)
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2323h_3.jpg)
+
+**Conections for FT2232h**
+
+Note: Do not forget to connect the GND to the board
+
+ADBUS0 --> TCLK
+ADBUS1 --> TDI
+ADBUS2 --> TDO
+ADBUS3 --> TMS
+
+**Conections for USB-Blaster**
+
+The USB-Blaster connector is shown here
+
+![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag_USB_BLASTER.png)
 
 
 **JTAG conections in Colorlight 5A-75X boards**
