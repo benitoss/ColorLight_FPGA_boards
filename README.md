@@ -42,15 +42,11 @@ Because the Colorlight 5A-75B and 5A-75E not include a JTAG programmer, you will
 In case of Colorlight i5 or ICeSugar Pro use a STM32 based programmer that is too slow (It spends more than 1 minute), so it is recomended to use an external JTAG programmer too
 
 The recomended JTAG programmers are:
-1) FT2232H
-2) FT232H
-3) USB-Blaster
+1) FT2232H  from here --> https://www.aliexpress.com/item/32806818411.html
+2) FT232H  from here -->  https://www.aliexpress.com/item/33052982174.html
+3) USB-Blaster from here --> https://www.aliexpress.com/item/32831280653.html
 
-The FT2232H programmer  from here --> https://www.aliexpress.com/item/32806818411.html
-The FT232H programmer from here -->  https://www.aliexpress.com/item/33052982174.html
-USB-Blaster programmer from here --> https://www.aliexpress.com/item/32831280653.html
-
-I have a FT2232H programmer and is the first recommended option:
+I have a FT2232H programmer as the first recommended option:
 
 <img src="https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_1.png" alt="FT2322H Board" width="450" height="342">
 
