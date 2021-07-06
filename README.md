@@ -46,7 +46,11 @@ The recomended JTAG programmers are:
 2) FT232H
 3) USB-Blaster
 
-My JTAG programmer is the FT2232H   from here --> https://www.aliexpress.com/item/32806818411.html
+The FT2232H programmer  from here --> https://www.aliexpress.com/item/32806818411.html
+The FT232H programmer from here -->  https://www.aliexpress.com/item/33052982174.html
+USB-Blaster programmer from here --> https://www.aliexpress.com/item/32831280653.html
+
+I have a FT2232H programmer and is the first recommended option:
 
 <img src="https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_1.png" alt="FT2322H Board" width="450" height="342">
 
@@ -66,7 +70,7 @@ But in my case, because I use the board for Lattice ECP5 and for Xilinx boards i
 **How to install and change the LibUSbK driver (Alternative Method to Zadig. It allows recover the driver easily)**
 
 I use the utility USB Driver Tool, you can download from https://visualgdb.com/UsbDriverTool/  The last version is here --> https://sysprogs.com/getfile/1372/UsbDriverTool-2.1.exe
-In case you use the FT2232H JTAG programmer, you will see the "USB Serial Converter A" with VID 0403 and VPI 6010. With FT232H is similar and with USB-Blaster you will see"Altera USB Blaster"
+In case you use the FT2232H JTAG programmer, you will see the "USB Serial Converter A" with VID 0403 and VPI 6010. With FT232H is similar and with USB-Blaster you will see "Altera USB Blaster"
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/USB_Driver_Tool_1.jpg)
 
@@ -87,7 +91,7 @@ And you will see the original state with the device name without nothing in pare
 In this way you can use the FT2232H JTAG programmer with any board  
 The way to install the driver is equivalent for FT232H or USB-Blaster programmers
 
-**Conections for FT2232h**
+**Conections for FT2232H**
 
 Here you have the JTAG connections of the FT2232H board to program the board. Note: It is not necessary connect the VCC connector. Do not forget to connect the GND to the board
 
@@ -105,7 +109,7 @@ If you apply the MOD of the EPROM, you will have an USB-UART converter in the Se
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2323h_3.jpg)
 
-**Conections for FT2232h**
+**Conections for FT232H**
 
 Note: Do not forget to connect the GND to the board
 
