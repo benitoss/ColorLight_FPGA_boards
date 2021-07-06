@@ -91,15 +91,15 @@ The way to install the driver is equivalent for FT232H or USB-Blaster programmer
 
 Here you have the JTAG connections of the FT2232H board to program the board. Note: It is not necessary connect the VCC connector. Do not forget to connect the GND to the board
 
-ADBUS0 --> TCLK
-ADBUS1 --> TDI
-ADBUS2 --> TDO
-ADBUS3 --> TMS
+- ADBUS0 --> TCLK
+- ADBUS1 --> TDI
+- ADBUS2 --> TDO
+- ADBUS3 --> TMS
 
 If you apply the MOD of the EPROM, you will have an USB-UART converter in the Second port "USB Serial Converter B" and you can use as a traditional USB-UART convertor
 
-CDBUS0 --> TX
-CDBUS1 --> RX
+- CDBUS0 --> TX
+- CDBUS1 --> RX
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2232h_2.png)
 
@@ -109,10 +109,10 @@ CDBUS1 --> RX
 
 Note: Do not forget to connect the GND to the board
 
-ADBUS0 --> TCLK
-ADBUS1 --> TDI
-ADBUS2 --> TDO
-ADBUS3 --> TMS
+- ADBUS0 --> TCLK
+- ADBUS1 --> TDI
+- ADBUS2 --> TDO
+- ADBUS3 --> TMS
 
 **Conections for USB-Blaster**
 
