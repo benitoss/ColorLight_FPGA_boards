@@ -18,7 +18,7 @@ There is another utility for ColorLight i5 and iCESugar-Pro called [ECPDAP](http
 
 ## How to Update IceStudio and Apio to support these boards
 
-Download the Windows WIP version of IceStudio **0.5.1w202106261206** from https://downloads.icestudio.io/  
+Download the Windows WIP version of IceStudio **0.6.1w202107130707** from https://downloads.icestudio.io/  
 The required files are included already in the nightly version of IceStudio, so you can go to the APPIO section directly.
 
 The last version of ICeStudio will be include the apio-0.6.7 version, so you only need to follow the first step below 
