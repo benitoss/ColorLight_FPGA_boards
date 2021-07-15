@@ -1,7 +1,5 @@
 # ColorLight_FPGA_boards
-Update IceStudio (Windows version) to support ColorLight 5A-75X, i5 and ICeSugar Pro FPGA boards.
-
-The procedure of Mac and Linux IceStudio version is similar, but they require of OpenFPGALoader version for each SO. You can get the OpenFPGALoader compiled binary version from [here](https://github.com/YosysHQ/fpga-toolchain/releases/tag/nightly-20210418)
+IceStudio already supports ColorLight 5A-75X, i5 and ICeSugar Pro FPGA boards in in Windows, Mac and Linux versions.
 
 ## New supported boards in IceStudio and Apio
 
@@ -16,25 +14,7 @@ There is another utility for ColorLight i5 and iCESugar-Pro called [ECPDAP](http
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/icestudio_boards.png)
 
-## How to Update IceStudio and Apio to support these boards
-
-Download the Windows WIP version of IceStudio **0.6.1w202107130707** from https://downloads.icestudio.io/  
-The required files are included already in the nightly version of IceStudio, so you can go to the APPIO section directly.
-
-The last version of ICeStudio will be include the apio-0.6.7 version, so you only need to follow the first step below 
-
-**APIO**
-1)  In the folder   -> **C:\Users\your_user\\.icestudio\apio\packages**  
-Add the files of [toolchain-ecp5.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/toolchain-ecp5.zip?raw=true) file
-
-**Next stpes only are necessary if your apio version is below apio-0.6.7 version**
-
-2)  In the folder    --> **C:\Users\your_user\\.icestudio\apio**  
-Overwrite profile.json file of [profile.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/profile.zip?raw=true) file
-3)   In the folder   --> **C:\Users\your_user\\.icestudio\venv\Lib\site-packages\apio\resources**  
-Overwrite programmers.json y boards.json  files of [resources.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/resources.zip?raw=true) file
-4)  In the folder  --> **C:\Users\your_user\\.icestudio\venv\Lib\site-packages\apio**  
-Overwrite util.py file of [util.zip](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/Icestudio_update_boards/util.zip?raw=true) file
+**NOTE: At 7/15/2021 the las update of the toolchain-ecp5 of the FPGAWArs groups already has support to the ColorLight and IceSugar Pro boards in Windows, Mac and Linux versions of Icestudio, consequently we don't need to add any file to get this support**
 
 # JTAG Programmers
 
