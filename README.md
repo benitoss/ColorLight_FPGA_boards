@@ -89,6 +89,10 @@ If you apply the MOD of the EPROM, you will have an USB-UART converter in the Se
 
 Note: Do not forget to connect the GND to the board
 
+![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft232h_1.png)
+
+![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft232h_2.png)
+
 - ADBUS0 --> TCLK
 - ADBUS1 --> TDI
 - ADBUS2 --> TDO
@@ -97,6 +101,8 @@ Note: Do not forget to connect the GND to the board
 **Conections for USB-Blaster**
 
 The USB-Blaster connector is shown here
+
+![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/USB-Blaster.jpg)
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag_USB_BLASTER.png)
 
