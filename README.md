@@ -33,6 +33,9 @@ I have a FT2232H programmer as the first recommended option:
 Because I use the same programmer in other Xilinx Boards I have applied a mod to this programmer (If you only are going to use for Lattice  ECP5 board you don't need to do it)
 The mod is based in change the content of its EPROM , here you have the instructions  -->  https://gist.github.com/rikka0w0/24b58b54473227502fa0334bbe75c3c1
 
+if you adquire the FT232H the mod to convert in Degilent HS2 Cable compatible with Vivado is --> https://github.com/erd0spy/ft232h_to_digilent_fpga_programmer
+
+
 Working in windows you have to install the LibUSBk driver to get the programmer be recognized by the programmer software included in Apio
 
 In the same way of other boards in IceStudio, you can use Zadig to install the LibUsbK driver if you want to use the programmer in IceStudio/Apio.
