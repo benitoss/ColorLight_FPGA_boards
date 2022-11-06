@@ -44,6 +44,8 @@ If you applied the mod of the EPROM in your ft2232H board and you install the Xi
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/zadig.png)
 
+You have more information how to use ZADIG in this link -->  https://github.com/foss-for-synopsys-dwc-arc-processors/arc_gnu_eclipse/wiki/How-to-Use-OpenOCD-on-Windows
+
 But in my case, because I use the board for Lattice ECP5 and for Xilinx boards in ISE/Vivado, I don't use Zadig to install the LibUsbK driver because the FT2232H programmer will not work with Xilinx IDE. So, to recover easily the original driver that works in Xilinx, I use an alternative method.  First, I install the Xilinx driver of the FT2232H board after modifying the EPROM and later I use the alternative method to modify the driver.
 
 **How to install and change the LibUSbK driver (Alternative Method to Zadig. It allows recover the driver easily)**
