@@ -24,7 +24,7 @@ In case of Colorlight i5 or ICeSugar Pro use a STM32 based programmer that is to
 The recomended JTAG programmers are:
 1) FT2232H  from here --> https://www.aliexpress.com/item/1005002448969402.html
 2) FT232H  from here -->  https://www.aliexpress.com/item/33052982174.html
-3) USB-Blaster from here --> https://www.aliexpress.com/item/32831280653.html
+3) USB-Blaster from here --> https://www.aliexpress.us/item/3256802725775256.html
 
 I have a FT2232H programmer as the first recommended option:
 
