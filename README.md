@@ -120,11 +120,11 @@ Eventually you can follow the fantastic info from chubby75 [Github](https://gith
 
 For the Colorlight 5A-75E v8.0 here is the list of the JTAG connections:
 
-J30 - TDO - 3
-J32 - TDI - 9
-J31 - TMS - 5
-J27 - TCK - 1
-J33 - 3v3 - 7
-J34 - GND - 2,10
+- J30 - TDO - 3
+- J32 - TDI - 9
+- J31 - TMS - 5
+- J27 - TCK - 1
+- J33 - 3v3 - 7
+- J34 - GND - 2,10
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag_80.jpg)
