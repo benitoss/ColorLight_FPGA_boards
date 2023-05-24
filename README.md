@@ -118,7 +118,7 @@ Eventually you can follow the fantastic info from chubby75 [Github](https://gith
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag.jpg)
 
-For the Colorlight 5A-75E v8.0 here is the list of the JTAG connections. Thanks to cdwijs [Github](https://github.com/q3k/chubby75](https://github.com/cdwijs)
+For the Colorlight 5A-75E v8.0 here is the list of the JTAG connections. Thanks to cdwijs [Github](https://github.com/cdwijs)
 
 - J30 - TDO - 3
 - J32 - TDI - 9
