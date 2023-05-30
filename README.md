@@ -74,7 +74,7 @@ And you will see the original state with the device name without nothing in pare
 In this way you can use the FT2232H JTAG programmer with any board  
 The way to install the driver is equivalent for FT232H or USB-Blaster programmers
 
-**Conections for FT2232H**
+# Conections for FT2232H
 
 Here you have the JTAG connections of the FT2232H board to program the board. Note: It is not necessary connect the VCC connector. Do not forget to connect the GND to the board
 
@@ -92,7 +92,7 @@ If you apply the MOD of the EPROM, you will have an USB-UART converter in the Se
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/ft2323h_3.jpg)
 
-**Conections for FT232H**
+# nections for FT232H
 
 Note: Do not forget to connect the GND to the board
 
@@ -105,7 +105,7 @@ Note: Do not forget to connect the GND to the board
 - ADBUS2 --> TDO
 - ADBUS3 --> TMS
 
-**Conections for USB-Blaster**
+# nections for USB-Blaster
 
 The USB-Blaster connector is shown here
 
@@ -114,7 +114,7 @@ The USB-Blaster connector is shown here
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag_USB_BLASTER.png)
 
 
-**JTAG conections in Colorlight 5A-75X boards**
+# AG conections in Colorlight 5A-75X boards
 
 Eventually you can follow the fantastic info from chubby75 [Github](https://github.com/q3k/chubby75) to Know the JTAG pins in the Cololight Boards.
 
