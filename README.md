@@ -36,6 +36,8 @@ The mod is based in change the content of its EPROM , here you have the instruct
 if you adquire the FT232H the mod to convert in Digilent HS2 Cable compatible with Vivado is --> https://github.com/erd0spy/ft232h_to_digilent_fpga_programmer
 And here you have the other possible configurations for the FT232H board, as a STM1 for example --> https://github.com/vanbwodonk/ft2232hl-jtag-clone/tree/main/eeprom_binary
 
+# Install LibUSBK to work in Windows (Linux user don't need this part)
+
 Working in windows you have to install the LibUSBk driver to get the programmer be recognized by the programmer software included in Apio
 
 In the same way of other boards in IceStudio, you can use Zadig to install the LibUsbK driver if you want to use the programmer in IceStudio/Apio.
