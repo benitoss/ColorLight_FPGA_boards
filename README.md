@@ -132,5 +132,6 @@ For the Colorlight 5A-75E v8.0 here is the list of the JTAG connections. Thanks 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/jtag_80.jpg)
 
 # Connections in Colorlight i9-v7.2 board
+Thanks to https://github.com/wuxx/Colorlight-FPGA-Projects
 
 ![alt text](https://github.com/benitoss/ColorLight_FPGA_boards/blob/main/images/i9_v7.2_pinout.png)
