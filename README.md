@@ -21,7 +21,7 @@ There is another utility for ColorLight i5 and iCESugar-Pro called [ECPDAP](http
 Because the Colorlight 5A-75B and 5A-75E not include a JTAG programmer, you will need an external JTAG programmer
 In case of Colorlight i5 or ICeSugar Pro use a STM32 based programmer that is too slow (It spends more than 1 minute), so it is recomended to use an external JTAG programmer too
 
-The recomended JTAG programmers are:
+The recommended JTAG programmers are:
 1) FT2232H  from here --> https://www.aliexpress.com/item/1005002448969402.html
 2) FT232H  from here -->  https://www.aliexpress.com/item/33052982174.html
 3) USB-Blaster from here --> https://www.aliexpress.us/item/3256802725775256.html
@@ -33,7 +33,7 @@ I have a FT2232H programmer as the first recommended option:
 Because I use the same programmer in other Xilinx Boards I have applied a mod to this programmer (If you only are going to use for Lattice  ECP5 board you don't need to do it)
 The mod is based in change the content of its EPROM , here you have the instructions  -->  https://gist.github.com/rikka0w0/24b58b54473227502fa0334bbe75c3c1
 
-if you adquire the FT232H the mod to convert in Digilent HS2 Cable compatible with Vivado is --> https://github.com/erd0spy/ft232h_to_digilent_fpga_programmer
+if you acquire the FT232H the mod to convert in Digilent HS2 Cable compatible with Vivado is --> https://github.com/erd0spy/ft232h_to_digilent_fpga_programmer
 And here you have the other possible configurations for the FT232H board, as a STM1 for example --> https://github.com/vanbwodonk/ft2232hl-jtag-clone/tree/main/eeprom_binary
 
 # Install LibUSBK to work in Windows (Linux user don't need this part)
